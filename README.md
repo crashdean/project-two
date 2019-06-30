@@ -1,5 +1,6 @@
 # project-two
-This project was created by 
+This project was created by
+
 Davis Cabrera
 
 Logan Bertrand
